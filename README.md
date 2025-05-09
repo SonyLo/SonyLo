@@ -1,7 +1,7 @@
-# Sonya Logvinova
+# 🎯 **Fullstack Developer**  
 
-🎯 **Fullstack Developer**  
-🛠 JavaScript • Node.js • Vue.js • Express.js • MySQL • GitLab CI
+
+## 🛠 JavaScript • Node.js • Vue.js • Express.js • MySQL • GitLab CI
 
 ---
 

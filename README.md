@@ -18,6 +18,6 @@ Experienced in migrating legacy systems to a modern tech stack, implementing CI/
 
 - 📧 [pikalonger@gmail.com](mailto:pikalonger@gmail.com)  
 - 💬 [Telegram: @lsvadm](https://t.me/lsvadm)  
-- 🌍 [Resume](https://sonylo.github.io/resume/)  
+
 
 
